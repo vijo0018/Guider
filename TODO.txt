@@ -1,0 +1,22 @@
+Design patterns Kapitel... De viktiga
+Builder pattern,
+Repository pattern
+OSV,
+Debugg och Test Kapitel..
+
+Database First
+    You want to map an existing database to your object structure.
+
+Model First
+    You want to design your object model with a graphical designer and 
+then create a database that supports it.
+
+Code First
+    You create your object model in code and then generate a database that 
+can store your data.
+
+Egna övningar??
+
+C# längst uppe som i en dropdown som man kan byta ut 
+mot andra programmerings språk och så ändras 
+navbaren baserat på vilket språk är valt.
